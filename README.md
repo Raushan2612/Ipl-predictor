@@ -1,2 +1,2 @@
 # Ipl-predictor
-Ipl match prediction
+The project was designed and developed to predict the winning team in IPL matches using machine learning. By importing a dataset of IPL stats from the past ten years from Kaggle, key parameters such as runs, wickets remaining, and required run rate (RRR) were analyzed. Classification models, particularly logistic regression, were employed to train the dataset. Rigorous data analysis ensured optimal feature selection and model accuracy. The system was fine-tuned through hyperparameter optimization and cross-validation, resulting in a robust predictive model capable of forecasting match outcomes based on real-time game data.
